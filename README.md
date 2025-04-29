@@ -1,10 +1,10 @@
-# 🌿 Sistem Pakar Diagnosa Hama Tanaman
+#  Sistem Pakar Diagnosa Hama Tanaman
 
 Sistem ini membantu petani mendiagnosis jenis hama tanaman berdasarkan gejala yang diamati menggunakan metode **logika berbasis aturan**.
 
 ---
 
-## 📋 Penjelasan Sistem
+##  Penjelasan Sistem
 
 - **Input:** Gejala tanaman (daun menguning, bercak hitam, daun berlubang, tanaman layu).
 - **Proses:** Sistem mencocokkan kombinasi gejala dengan aturan logika proposisional.
@@ -12,7 +12,7 @@ Sistem ini membantu petani mendiagnosis jenis hama tanaman berdasarkan gejala ya
 
 ---
 
-## ⚙️ Aturan Diagnosa
+##  Aturan Diagnosa
 
 - Daun menguning + Bercak hitam → **Hama Jamur**
 - Daun berlubang → **Hama Ulat**
@@ -21,7 +21,7 @@ Sistem ini membantu petani mendiagnosis jenis hama tanaman berdasarkan gejala ya
 
 ---
 
-## 🧩 Contoh Kasus
+##  Contoh Kasus
 
 **Input:**  
 ✅ Daun menguning  
@@ -42,8 +42,5 @@ Sistem ini membantu petani mendiagnosis jenis hama tanaman berdasarkan gejala ya
 
 ---
 
-## 📜 Lisensi
 
-Proyek ini berlisensi **MIT License** dan terbuka untuk kontribusi.
 
----
