@@ -34,7 +34,7 @@ Sistem ini membantu petani mendiagnosis jenis hama tanaman berdasarkan gejala ya
 
 ---
 
-## 🚀 Ide Pengembangan
+##  Ide Pengembangan
 
 - Integrasi sensor IoT untuk deteksi otomatis.
 - Visualisasi diagnosis berbasis web atau mobile.
